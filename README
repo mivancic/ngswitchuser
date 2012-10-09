@@ -1,1 +1,10 @@
-This module allows ezPublish Admin user (id:14) to switch logged in user in administration interface. With it you can test roles and policies for different user, and see how admin interface behaves.
+This module allows ezPublish Admin user (id:14) to switch logged in user in administration interface. 
+With it you can: 
+
+- test roles and policies for different user
+- see how admin interface behaves for different user
+- create, edit, delete content as different user
+
+Very useful if you are developing modules that depends on lot of roles and policies.
+
+You can switch between users numerous times and restore originally logged in user.
