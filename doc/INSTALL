@@ -15,7 +15,7 @@ Installation Steps
    [ExtensionSettings]
    ActiveExtensions[]=ngswitchuser
 
-5. Clear caches
+5. Clear caches for admin siteaccess
 
    Clear all caches (from admin 'Setup' tab or from command line).
 
